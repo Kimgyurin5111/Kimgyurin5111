@@ -1,3 +1,3 @@
-## Hi I'm Xen 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=de312d&text=Hello%World!)
+## Hi, I'm Xen 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=C52C28&text=Hi, I'm Xen)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kimgyurin5111)](https://git.io/streak-stats)
